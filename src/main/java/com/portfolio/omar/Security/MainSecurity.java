@@ -1,4 +1,3 @@
-
 package com.portfolio.omar.Security;
 
 import com.portfolio.omar.Security.jwt.JwtEntryPoint;
@@ -24,7 +23,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 public class MainSecurity {
 
     @Autowired
-    UserDetailsImpl userDetailsServicesImpl;
+    UserDetailsImpl userDetailsServiceImpl;
 
     @Autowired
     JwtEntryPoint jwtEntryPoint;
@@ -50,7 +49,7 @@ public class MainSecurity {
         http.cors().and().csrf().disable()
                 .exceptionHandling().authenticationEntryPoint(jwtEntryPoint).and()
                 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and()
-                .authorizeHttpRequests()
+                .authorizeRequests()
                 .requestMatchers("/**").permitAll()
                 .anyRequest().authenticated();
 
