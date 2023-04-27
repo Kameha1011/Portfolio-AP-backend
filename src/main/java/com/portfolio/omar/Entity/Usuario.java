@@ -27,6 +27,7 @@ public class Usuario {
     @Size(min = 1, max = 350, message = "no cumple con la longitud")
     private String bannerUrl;
     @NotNull
+    @Size(min = 1, max = 350, message = "no cumple con la longitud")
     private String descripcion;
 
     public Usuario() {
