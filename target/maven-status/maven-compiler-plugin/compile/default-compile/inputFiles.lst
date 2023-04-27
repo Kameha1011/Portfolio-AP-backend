@@ -21,14 +21,17 @@ C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\Controller\AuthController.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\jwt\JwtProvider.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\Enums\RolNombre.java
+C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Service\ProyectosService.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Controller\EducacionController.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Entity\Experiencia.java
+C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Controller\ProyectosController.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Repository\SkillsRepo.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\Entity\UserPrincipal.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Entity\Skills.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Entity\Usuario.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\Dto\LoginUsuario.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Controller\CExperiencia.java
+C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Entity\Proyectos.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Repository\IUsuarioRepository.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\Repository\iRolRepository.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\MainSecurity.java
@@ -37,3 +40,5 @@ C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Entity\Educacion.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Security\Entity\Rol.java
 C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Service\ImpUsuarioService.java
+C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Repository\ProyectosRepo.java
+C:\Users\omrfl\OneDrive\Documentos\Argentina programa\Proyecto_final\Backend\src\main\java\com\portfolio\omar\Dto\DtoProyectos.java
